@@ -1,0 +1,49 @@
+.carousel-text p {
+    font-size: 20px;
+}
+
+a:hover {
+    color: rgb(100, 100, 100);
+}
+
+a {
+    list-style: none;
+    text-decoration: none;
+    color: black;
+}
+
+.btn2 {
+    width: 15%;
+    font-size: 20px;
+}
+
+.carousel-text {
+    background-blend-mode: darken;
+    background: rgb(0, 0, 0, 0.7);
+    color: white;
+    width: 100vh;
+    margin: auto;
+    border-radius: 20px;
+}
+
+.m {
+    margin: 10px 10%;
+}
+
+.margin {
+    margin: 6px 20px;
+}
+
+.pagination {
+    padding-left: 10px;
+    margin: 4px 5px;
+}
+
+.footer {
+    font-size: 20px;
+    font-weight: lighter;
+    color: white;
+    background-color: black;
+    align-items: center;
+    padding: 10px;
+}
